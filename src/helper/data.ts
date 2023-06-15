@@ -16,5 +16,13 @@ export const students = {
         "Sou desenvolvedor React Web e React Native. Estudei Sistemas de Informação e sou pós graduado em desenvolvimento mobile na FIAP. Trabalho com desenvolvimento de software desde 2017, iniciei como full stack e atualmente atuo apenas como front end.",
       rm: "343951",
     },
+    {
+      name: "Renato Santos",
+      job: "Analista Desenvolvedor B2B em Vivo - Telefónica",
+      image: require("../assets/renato-perfil.jpg"),
+      about:
+        "Trabalho com as tecnologias Java/Apex/Swift. Graduado em Sistemas de Informação e atualmente estou me formando em desenvolvimento mobile na FIAP. Trabalho com análise/desenvolvimento de software desde 2019, com maior experiência em Java e agora expandindo os conhecimentos para Mobile.",
+      rm: "343956",
+    },
   ],
 };
