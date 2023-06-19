@@ -24,5 +24,13 @@ export const students = {
         "Trabalho com as tecnologias Java/Apex/Swift. Graduado em Sistemas de Informação e atualmente estou me formando em desenvolvimento mobile na FIAP. Trabalho com análise/desenvolvimento de software desde 2019, com maior experiência em Java e agora expandindo os conhecimentos para Mobile.",
       rm: "343956",
     },
+    {
+      name: "Giuliano Accorsi",
+      job: "Desenvolvedor Mobile em Banco Inter",
+      image: require("../assets/giuliano-perfil.jpg"),
+      about:
+        "Trabalho com Swift. Analise e Desenvolvimento de Sistemas e atualmente estou me formando em desenvolvimento mobile na FIAP. Trabalho com desenvolvimento de software desde 2020, com maior experiência em Swift",
+      rm: "345346",
+    },
   ],
 };
